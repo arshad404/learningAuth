@@ -1,0 +1,20 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "description": "Authentication include signup and signin route",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arshad",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "flash": "^1.1.0",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.4.2",
+    "router": "^1.3.3"
+  }
+}
